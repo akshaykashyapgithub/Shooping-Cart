@@ -31,4 +31,23 @@ REFERENCES
 5.	Run the project on the browser (tested on chrome, firefox).
 
 
+Logs:--
+
+* 8ab595b (HEAD -> master) Add To cart Done Q-5
+	| * f6b94d9 (register) Register Done Q-4
+	|/  
+	| *-.   9a7b967 (refs/stash) WIP on AddtoCart: 2a1e205 Added To README Functionality Q-2
+	| |\ \  
+	|/ / /  
+	| | * a0f86d3 untracked files on AddtoCart: 2a1e205 Added To README Functionality Q-2
+	| * dda9fca index on AddtoCart: 2a1e205 Added To README Functionality Q-2
+	|/  
+	* 2a1e205 (temp) Added To README Functionality Q-2
+	* 6e74fd3 Login Done With Validations Q-1
+	* 4e235a2 (origin/master, origin/HEAD) Create README.md
+	* 3bc315a shopping_cart
+	* 943d7cd :lollipop: Added .gitattributes & .gitignore files
+
+
+
 
