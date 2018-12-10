@@ -3,6 +3,7 @@ session_start();
 require("connection.php");
 if(isset($_SESSION['SESS_LOGGEDIN'])) {
 header("Location: " . $config_basedir);
+  echo "edited by shearusherly";
 }
 
 if(isset($_POST['submit']))
